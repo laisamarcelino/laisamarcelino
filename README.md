@@ -1,8 +1,7 @@
 # 👩🏽‍💻 Laisa Marcelino
 
 **`Estudante de Computação`**
-
-Me chamo Laisa Marcelino, tenho 22 anos e sou natural de Minas Gerais. Concluí o ensino médio no IFNMG, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UFPR. Sou apaixonada por tecnologia e adquiro conhecimento através de projetos e estudos constantes.
+Me chamo Laisa Marcelino, tenho 22 anos, sou natural de Minas Gerais e atualmente resido em Curitiba-PR. Concluí o ensino médio no IFNMG, com o curso técnico em informática, e curso Ciência da Computação na Universidade Federal do Paraná. Sou apaixonada por tecnologia e adquiro conhecimento através de projetos e estudos constantes.
 
 ---
 
